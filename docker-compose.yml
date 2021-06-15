@@ -1,0 +1,24 @@
+version: "1"
+
+services:
+    server:
+        image: server:latest
+        environment: 
+            DARK_SKY_API: 9b93e14983a66a104d0e620e17eae8c7
+            LAT_LONG_CORDS: 40.6012,-111.9522
+        build: 
+            context: ./backend
+            target: development
+        ports:
+            - 3030:3030
+        volumes: 
+            - ./backend:/backend
+    app:
+        image: app:latest
+        environment:
+            SERVER_URL: http://server:3030
+        build: ./frontend
+        ports:
+            - 5000:5000
+        volumes: 
+            - ./frontend:/frontend
