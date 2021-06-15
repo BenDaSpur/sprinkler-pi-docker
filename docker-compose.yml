@@ -4,8 +4,8 @@ services:
     server:
         image: server:latest
         environment: 
-            DARK_SKY_API: 9b93e14983a66a104d0e620e17eae8c7
-            LAT_LONG_CORDS: 40.6012,-111.9522
+            DARK_SKY_API: 
+            LAT_LONG_CORDS: 
         build: ./backend
         ports:
             - 3030:3030
