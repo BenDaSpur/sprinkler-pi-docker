@@ -1,0 +1,233 @@
+[
+    {
+        "day": "sun",
+        "active": true,
+        "startTime": "04:00",
+        "zones": [
+            { "zone": "0", "desc": "n/w of backyard", "time": "11" },
+            { "zone": "1", "desc": "north center of backyard", "time": "10" },
+            { "zone": "2", "desc": "n/w near 3rd car", "time": "10" },
+            { "zone": "3", "desc": "roses & garden strip", "time": "10" },
+            { "zone": "4", "desc": "east side grass backyard", "time": "10" },
+            { "zone": "5", "desc": "mid south grass backyard", "time": "10" },
+            {
+                "zone": "6",
+                "desc": "north & east backyard grass/dirt",
+                "time": "10"
+            },
+            { "zone": "7", "desc": "east wall & drips backyard", "time": "10" },
+            { "zone": "23", "desc": "south backyard grass", "time": "10" },
+            { "zone": "24", "desc": "west backyard off patio", "time": "10" },
+            {
+                "zone": "25",
+                "desc": "front strip and center front yard",
+                "time": "10"
+            },
+            { "zone": "26", "desc": "south front yard", "time": "10" },
+            {
+                "zone": "27",
+                "desc": "north front & west electrical",
+                "time": "10"
+            },
+            { "zone": "28", "desc": "east frontyard", "time": "10" }
+        ]
+    },
+    {
+        "day": "mon",
+        "active": true,
+        "startTime": "03:00",
+        "zones": [
+            { "zone": "0", "desc": "n/w of backyard", "time": "0" },
+            { "zone": "1", "desc": "north center of backyard", "time": "0" },
+            { "zone": "2", "desc": "n/w near 3rd car", "time": "0" },
+            { "zone": "3", "desc": "roses & garden strip", "time": "1" },
+            { "zone": "4", "desc": "east side grass backyard", "time": "0" },
+            { "zone": "5", "desc": "mid south grass backyard", "time": "0" },
+            {
+                "zone": "6",
+                "desc": "north & east backyard grass/dirt",
+                "time": "1"
+            },
+            { "zone": "7", "desc": "east wall & drips backyard", "time": "1" },
+            { "zone": "23", "desc": "south backyard grass", "time": "0" },
+            { "zone": "24", "desc": "west backyard off patio", "time": "0" },
+            {
+                "zone": "25",
+                "desc": "front strip and center front yard",
+                "time": "1"
+            },
+            { "zone": "26", "desc": "south front yard", "time": "0" },
+            {
+                "zone": "27",
+                "desc": "north front & west electrical",
+                "time": "1"
+            },
+            { "zone": "28", "desc": "east frontyard", "time": "0" }
+        ]
+    },
+    {
+        "day": "tue",
+        "active": true,
+        "startTime": "03:00",
+        "zones": [
+            { "zone": "0", "desc": "n/w of backyard", "time": "10" },
+            { "zone": "1", "desc": "north center of backyard", "time": "10" },
+            { "zone": "2", "desc": "n/w near 3rd car", "time": "10" },
+            { "zone": "3", "desc": "roses & garden strip", "time": "10" },
+            { "zone": "4", "desc": "east side grass backyard", "time": "10" },
+            { "zone": "5", "desc": "mid south grass backyard", "time": "10" },
+            {
+                "zone": "6",
+                "desc": "north & east backyard grass/dirt",
+                "time": "10"
+            },
+            { "zone": "7", "desc": "east wall & drips backyard", "time": "10" },
+            { "zone": "23", "desc": "south backyard grass", "time": "10" },
+            { "zone": "24", "desc": "west backyard off patio", "time": "10" },
+            {
+                "zone": "25",
+                "desc": "front strip and center front yard",
+                "time": "10"
+            },
+            { "zone": "26", "desc": "south front yard", "time": "10" },
+            {
+                "zone": "27",
+                "desc": "north front & west electrical",
+                "time": "10"
+            },
+            { "zone": "28", "desc": "east frontyard", "time": "10" }
+        ]
+    },
+    {
+        "day": "wed",
+        "active": true,
+        "startTime": "03:00",
+        "zones": [
+            { "zone": "0", "desc": "n/w of backyard", "time": "0" },
+            { "zone": "1", "desc": "north center of backyard", "time": "0" },
+            { "zone": "2", "desc": "n/w near 3rd car", "time": "0" },
+            { "zone": "3", "desc": "roses & garden strip", "time": "10" },
+            { "zone": "4", "desc": "east side grass backyard", "time": "0" },
+            { "zone": "5", "desc": "mid south grass backyard", "time": "0" },
+            {
+                "zone": "6",
+                "desc": "north & east backyard grass/dirt",
+                "time": "10"
+            },
+            { "zone": "7", "desc": "east wall & drips backyard", "time": "10" },
+            { "zone": "23", "desc": "south backyard grass", "time": "0" },
+            { "zone": "24", "desc": "west backyard off patio", "time": "0" },
+            {
+                "zone": "25",
+                "desc": "front strip and center front yard",
+                "time": "10"
+            },
+            { "zone": "26", "desc": "south front yard", "time": "0" },
+            {
+                "zone": "27",
+                "desc": "north front & west electrical",
+                "time": "10"
+            },
+            { "zone": "28", "desc": "east frontyard", "time": "0" }
+        ]
+    },
+    {
+        "day": "thu",
+        "active": true,
+        "startTime": "03:00",
+        "zones": [
+            { "zone": "0", "desc": "n/w of backyard", "time": "10" },
+            { "zone": "1", "desc": "north center of backyard", "time": "10" },
+            { "zone": "2", "desc": "n/w near 3rd car", "time": "10" },
+            { "zone": "3", "desc": "roses & garden strip", "time": "10" },
+            { "zone": "4", "desc": "east side grass backyard", "time": "10" },
+            { "zone": "5", "desc": "mid south grass backyard", "time": "10" },
+            {
+                "zone": "6",
+                "desc": "north & east backyard grass/dirt",
+                "time": "10"
+            },
+            { "zone": "7", "desc": "east wall & drips backyard", "time": "10" },
+            { "zone": "23", "desc": "south backyard grass", "time": "10" },
+            { "zone": "24", "desc": "west backyard off patio", "time": "10" },
+            {
+                "zone": "25",
+                "desc": "front strip and center front yard",
+                "time": "10"
+            },
+            { "zone": "26", "desc": "south front yard", "time": "10" },
+            {
+                "zone": "27",
+                "desc": "north front & west electrical",
+                "time": "10"
+            },
+            { "zone": "28", "desc": "east frontyard", "time": "10" }
+        ]
+    },
+    {
+        "day": "fri",
+        "active": false,
+        "startTime": "03:00",
+        "zones": [
+            { "zone": "0", "desc": "n/w of backyard", "time": "0" },
+            { "zone": "1", "desc": "north center of backyard", "time": "0" },
+            { "zone": "2", "desc": "n/w near 3rd car", "time": "0" },
+            { "zone": "3", "desc": "roses & garden strip", "time": "10" },
+            { "zone": "4", "desc": "east side grass backyard", "time": "0" },
+            { "zone": "5", "desc": "mid south grass backyard", "time": "0" },
+            {
+                "zone": "6",
+                "desc": "north & east backyard grass/dirt",
+                "time": "10"
+            },
+            { "zone": "7", "desc": "east wall & drips backyard", "time": "10" },
+            { "zone": "23", "desc": "south backyard grass", "time": "0" },
+            { "zone": "24", "desc": "west backyard off patio", "time": "0" },
+            {
+                "zone": "25",
+                "desc": "front strip and center front yard",
+                "time": "10"
+            },
+            { "zone": "26", "desc": "south front yard", "time": "0" },
+            {
+                "zone": "27",
+                "desc": "north front & west electrical",
+                "time": "10"
+            },
+            { "zone": "28", "desc": "east frontyard", "time": "0" }
+        ]
+    },
+    {
+        "day": "sat",
+        "active": false,
+        "startTime": "03:00",
+        "zones": [
+            { "zone": "0", "desc": "n/w of backyard", "time": 10 },
+            { "zone": "1", "desc": "north center of backyard", "time": 10 },
+            { "zone": "2", "desc": "n/w near 3rd car", "time": 10 },
+            { "zone": "3", "desc": "roses & garden strip", "time": 10 },
+            { "zone": "4", "desc": "east side grass backyard", "time": 10 },
+            { "zone": "5", "desc": "mid south grass backyard", "time": 10 },
+            {
+                "zone": "6",
+                "desc": "north & east backyard grass/dirt",
+                "time": 10
+            },
+            { "zone": "7", "desc": "east wall & drips backyard", "time": 10 },
+            { "zone": "23", "desc": "south backyard grass", "time": 10 },
+            { "zone": "24", "desc": "west backyard off patio", "time": 10 },
+            {
+                "zone": "25",
+                "desc": "front strip and center front yard",
+                "time": 10
+            },
+            { "zone": "26", "desc": "south front yard", "time": 10 },
+            {
+                "zone": "27",
+                "desc": "north front & west electrical",
+                "time": 10
+            },
+            { "zone": "28", "desc": "east frontyard", "time": 10 }
+        ]
+    }
+]
