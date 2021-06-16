@@ -2,7 +2,7 @@
 # That is why we tell node here to use the current node image as base.
 FROM node:14-buster
 
-RUN apk add g++ make python
+RUN apt install g++ make python
 
 # Create an application directory
 RUN mkdir -p /backend
