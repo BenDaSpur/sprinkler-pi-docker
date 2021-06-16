@@ -1,6 +1,6 @@
 # We don't want to start from scratch.
 # That is why we tell node here to use the current node image as base.
-FROM node:alpine
+FROM node:8.12-stretch
 
 # Create an application directory
 RUN mkdir -p /frontend
@@ -18,7 +18,7 @@ RUN npm install
 COPY . .
 
 # Build the app
-RUN npm run build
+# RUN npm run build
 
 # Expose $PORT on container.
 # We use a varibale here as the port is something that can differ on the environment.

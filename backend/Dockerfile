@@ -1,6 +1,6 @@
 # We don't want to start from scratch.
 # That is why we tell node here to use the current node image as base.
-FROM node:8.12-alpine
+FROM node:8.12-stretch
 
 RUN apk add g++ make python
 
